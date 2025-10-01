@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning frontend<br>🎯 Goals: finish frontend bootcamp</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Frontend at Developer Akademie.<br>🎯 Goals: Finish Frontend course.</p>
 
 ###
 
