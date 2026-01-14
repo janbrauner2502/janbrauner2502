@@ -28,18 +28,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janbrauner2502&theme=dracula" height="150" alt="streak stats" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janbrauner2502&theme=dracula&row=1&column=3" alt="trophy" />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janbrauner2502/janbrauner2502/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janbrauner2502/janbrauner2502/output/pacman-contribution-graph.svg">
